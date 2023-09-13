@@ -128,6 +128,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="dp1.h" />
+    <ClInclude Include="dp2.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp" />
